@@ -75,6 +75,12 @@
   <img src="https://streak-stats.demolab.com?user=himanshuhr8&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=himanshuhr8&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=himanshuhr8&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
 ###
 
 <img align="right" height="150" src="https://i.imgflip1.com/65efzo.gif"  />
