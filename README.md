@@ -81,18 +81,12 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=himanshuhr8&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-###
-
-<img align="right" height="150" src="https://i.imgflip1.com/65efzo.gif"  />
-
-###
-
-
-
-<br clear="both">
+---
+[![](https://visitcount.itsvg.in/api?id=himanshuhr8&icon=7&color=2)](https://visitcount.itsvg.in)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/himanshuhr8/himanshuhr8/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/himanshuhr8/himanshuhr8/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/himanshuhr8/himanshuhr8/output/github-contribution-grid-snake.svg">
 </picture>
+
