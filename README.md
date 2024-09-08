@@ -2,7 +2,7 @@
 🔭 I’m currently working on: Web development using JavaScript and React.<br>👯 I’m looking to collaborate on: App development in Flutter or web development projects.<br>🤝 I’m looking for help with: Advanced web development practices, React libraries, and JavaScript frameworks.<br>🌱 I’m currently learning: React, JavaScript, and web development fundamentals.<br>💬 Ask me about: Flutter app development, Firebase integration, and building UI components.<br>⚡ Fun fact: I started with app development and am now diving into the world of web development!
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/himanshu.raj_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshu-raj-1053a4260) 
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshu-raj-1053a4260) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:hima31raj@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/himanshu.raj_)
 
 ###
 
