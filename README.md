@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Himanshu and I'm a Android developer, from IIIT Allahabad</h2>
+<h2 align="left">Hi 👋! My name is Himanshu and I'm a .... developer, from IIIT Allahabad</h2>
 
 ###
 
