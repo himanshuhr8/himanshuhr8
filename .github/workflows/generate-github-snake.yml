@@ -1,0 +1,18 @@
+name: Generate GitHub Contribution Graphs
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Run daily
+
+jobs:
+  generate-graphs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Contribution Graphs
+        uses: Platane/snk@v3
+        with:
+          github_user_name: your-github-username
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
